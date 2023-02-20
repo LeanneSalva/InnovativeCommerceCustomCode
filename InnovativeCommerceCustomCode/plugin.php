@@ -4,7 +4,7 @@ Plugin Name: InnovativeCommerceCustomCode
 Plugin URI: http: //www.InnovativeCommerceCustomCode.com
 Description: Create your of custom Javascript code with this easy-to-use plugin.
 Author: Leanne Salva
-Author URI: http://www.InnovativeCommerceCustomCode.com/
+Author URI: https://www.velascommerce.com/
 */
 
 add_action('wp_enqueue_scripts'); 
