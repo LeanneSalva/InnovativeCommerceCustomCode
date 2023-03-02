@@ -11,4 +11,4 @@ add_action('wp_enqueue_scripts');
 add_action('wp_enqueue_scripts',, 'plugin_scripts');
 function plugin_scripts(){
     wp_enqueue_script('InnovativeCommerceCustomCode', plugin_url('/scripts.js',__FILE__), array('jquery'), false, true);
-}
+} 
